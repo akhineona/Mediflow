@@ -447,7 +447,7 @@ structure and help protect the application against SQL injection.
 
 👉 [Watch Project Demo](#)
 
-[](https://drive.google.com/file/d/1gPYf4EnNcAVatTSw6qjdvjoBxTEs3Yew/view?usp=drive_link)
+(https://drive.google.com/file/d/1gPYf4EnNcAVatTSw6qjdvjoBxTEs3Yew/view?usp=drive_link)
 
 ------------------------------------------------------------------------
 
