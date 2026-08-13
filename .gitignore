@@ -1,0 +1,13 @@
+# Runtime installation files
+/config/config.php
+/storage/setup.lock
+/storage/logs/*.log
+
+# User-uploaded runtime content
+/uploads/lab_reports/*
+/uploads/profiles/*
+
+# Local environment clutter
+.DS_Store
+Thumbs.db
+*.tmp

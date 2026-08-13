@@ -1,0 +1,1 @@
+<div class="card empty-state"><div class="empty-icon">⌕</div><h2>Page not found</h2><p>The page you requested does not exist.</p><a class="btn btn-primary" href="<?= e(route_url('dashboard')) ?>">Return to dashboard</a></div>
